@@ -1,5 +1,5 @@
 # git-talk
-Repository to practice git commands at Universidad de la Sierra.
+Repository to practice git commands.
 
 This is a plain web page to understand:
 - git commands
