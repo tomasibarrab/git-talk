@@ -6,4 +6,4 @@ This is a plain web page to understand:
 - how pull requests works
 - how code review works
 
-This web page is using a w3school template: https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm
+This web page is using a w3school template: https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm
